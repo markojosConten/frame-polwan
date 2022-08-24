@@ -73,6 +73,18 @@
       "category": "Lainnya",
       "title": "11",
       "image_link": "frame/frame1.webp"
+    },
+        {
+      "id": 12,
+      "category": "Lainnya",
+      "title": "12",
+      "image_link": "frame/frame1.webp"
+    },
+        {
+      "id": 13,
+      "category": "Lainnya",
+      "title": "13",
+      "image_link": "frame/frame1.webp"
     }
 
 
