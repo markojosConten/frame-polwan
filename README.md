@@ -78,13 +78,13 @@
       "id": 12,
       "category": "Lainnya",
       "title": "12",
-      "image_link": "frame/frame1.webp"
+      "image_link": "https://github.com/markojosConten/frame-polwan/raw/main/frame12.png"
     },
         {
       "id": 13,
       "category": "Lainnya",
       "title": "13",
-      "image_link": "frame/frame1.webp"
+      "image_link": "https://github.com/markojosConten/frame-polwan/raw/main/frame13.png"
     }
 
 
